@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/HeartDieseaseAdam/HeartDieseaseAdam.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+cstdlib
+-
+algorithm
+-
+string
+-
+HeartDieseaseAdam.h
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/HeartDieseaseAdam/HeartDieseaseAdam.h
+Neural.h
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/HeartDieseaseAdam/Neural.h
+
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/HeartDieseaseAdam/HeartDieseaseAdam.h
+iostream
+-
+
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/HeartDieseaseAdam/Neural.h
+vector
+-
+

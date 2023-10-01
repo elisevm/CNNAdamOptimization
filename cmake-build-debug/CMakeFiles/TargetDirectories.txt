@@ -1,0 +1,5 @@
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/cmake-build-debug/HeartDieseaseAdam/CMakeFiles/rebuild_cache.dir
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/cmake-build-debug/HeartDieseaseAdam/CMakeFiles/edit_cache.dir
+/Users/studyhole/Desktop/art/HeartDieseaseAdam/cmake-build-debug/HeartDieseaseAdam/CMakeFiles/HeartDieseaseAdam.dir

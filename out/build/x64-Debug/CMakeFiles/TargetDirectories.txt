@@ -1,0 +1,5 @@
+C:/Users/gadji/source/repos/HeartDieseaseAdam/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gadji/source/repos/HeartDieseaseAdam/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gadji/source/repos/HeartDieseaseAdam/out/build/x64-Debug/HeartDieseaseAdam/CMakeFiles/rebuild_cache.dir
+C:/Users/gadji/source/repos/HeartDieseaseAdam/out/build/x64-Debug/HeartDieseaseAdam/CMakeFiles/HeartDieseaseAdam.dir
+C:/Users/gadji/source/repos/HeartDieseaseAdam/out/build/x64-Debug/HeartDieseaseAdam/CMakeFiles/edit_cache.dir
